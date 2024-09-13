@@ -14,4 +14,4 @@ the data analytics journey firmly with organizational metrics and requirements t
 
 ## Assessment
 
-This course was the only one to require an Objective Assessment, which was taken and passed with a score of 92%. 
+This course was the only one to require an Objective Assessment, so there are no files associated.
