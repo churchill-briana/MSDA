@@ -10,7 +10,7 @@ Data Acquisition builds proficiency in Structured Query Language (SQL) and the i
 - **Physical Data Models:** The graduate implements physical data models.
 - **Table Operations:** The graduate performs table operations and queries within the context of data acquisition for analysis.
 
-## Practical Assessment
+## Assessment
 
 D205 required one Practical Assessment completed by accessing a virtual machine and using PostgreSQL and pgAdmin to import an external CSV file into an existing database. The file was imported as a new table and the data explored via generated queries, as well as physical data models assessed in order to answer the following research question:
 
