@@ -1,12 +1,3 @@
-
-
-
-
-In this course I explored, transformed, and imputed data as well as handled outliers. 
-Using Juypter lab via Anaconda Navigator I wrote Python code to manipulate, structure, and clean data as well as to
-reduce features in data sets.
-
-
 # D206: Data Cleaning
 
 Data Cleaning continues building proficiency in the data analytics life cycle with data preparation skills. This course addresses exploring, transforming, and imputing data as well as handling outliers. Learners write code to manipulate, structure, and clean data as well as to reduce features in data sets.
