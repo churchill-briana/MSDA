@@ -1,10 +1,3 @@
-This course consisted of three tasks in which I created unsupervised predictive models.
-K-Means Clustering was utilized to determine if there were better offerings to provide to particular customer segments in order to boost sales and increase tenure.
-Another model was created using Principal Component Analysis to determine if such a method would be an appropriate dimensionality reduction measure.
-And lastly, a market basket analysis was completed to determine if certain drug combinations with adverse reactions were be prescribed together amongst the patient's recently admitted to the hospital.
-
-
-
 # D212 - Data Mining II
 
 ## Course Overview
@@ -21,13 +14,12 @@ Data Mining II adds vital tools to the data analytics arsenal that incorpora
 
 ### Task 1
 
-This project required the use of a clustering technique, to answer a research question created by the student. The question I posed was: *"Can distinct customer segments be identified using K-means?"*
+This project required the use of a clustering technique, to answer a research question created by the student. The question I posed was: *"Can distinct customer segments be identified using K-means?"* [The written submission for this assessment, which includes the Python code used, can be found here](https://github.com/churchill-briana/MSDA/blob/main/Data%20Mining%20II%20/Clustering%20Methods)
  
-
 ### Task 2
 
-This project required the use of Principal Component Analysis to reduce the dimensionality of the dataset.
+This project required the use of Principal Component Analysis to reduce the dimensionality of the dataset.[The written submission for this assessment, which includes the Python code used, can be found here](https://github.com/churchill-briana/MSDA/blob/main/Data%20Mining%20II%20/Principal%20Component%20Analysis)
 
 ### Task 3
 
-For this project, I was finally able to switch away from the telecommunications dataset and work with the medical data instead. This project required the use of market basket analysis to answer a research question. My research question was: "Can drug combinations with adverse reactions be found amongst the strong relationships identified within the analysis?"
+For this project, I was finally able to switch away from the telecommunications dataset and work with the medical data instead. This project required the use of market basket analysis to answer a research question. My research question was: *"Can drug combinations with adverse reactions be found amongst the strong relationships identified within the analysis?"* [The written submission for this assessment, which includes the Python code used, can be found here](https://github.com/churchill-briana/MSDA/blob/main/Data%20Mining%20II%20/Lift%20Analysis)
