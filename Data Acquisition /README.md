@@ -18,4 +18,4 @@ D205 required one Practical Assessment completed by accessing a virtual machine 
 
 Customer responses are valuable for both the customer and the business. Customers may feel heard, and businesses may utilize this information to inform business decisions. This question specifically could be beneficial to the business when reviewing employee performances to ensure proper customer service. This question may also address a potential reason for churn rates, which could allow the business to make changes to possibly avoid such events. 
 
-[The final write-up for this assessment, which includes the SQL queries and all the steps upsed, used can be found here](https://github.com/churchill-briana/MSDA/blob/main/Data%20Acquisition%20/Task%20One)
+[The final write-up for this assessment, which includes the SQL queries and all the steps used, can be found here](https://github.com/churchill-briana/MSDA/blob/main/Data%20Acquisition%20/Task%20One)
